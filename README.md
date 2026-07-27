@@ -1,23 +1,9 @@
-║     ≽^•⩊•^≼   n e k o - t a n        ║
+║     ≽^•⩊•^≼     ║
 
-🌸 ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ 🌸
+Can download youtube video/audio.
 
-      ⋆｡°✩  downloads the vids  ✩°｡⋆
+Written in Go.
 
-         ⋆˙⟡♡⟡˙⋆  nyaa~!  ⋆˙⟡♡⟡˙⋆
-
-⤜(✧ω✧)⤏  ⋆ ˚｡⋆౨ৎ˚  (≧▽≦)
-
-⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠂⠄
-
-  *:･ﾟ✧  no docs  ✧  no rules  ✧  simply  ✧ﾟ･:*
-
-⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠂⠄
-
-            ✩  install with `make install`  ✩
-            ✩  needs  yt-dlp  ✩
-            ✩  then run `neko-tan`  ✩
-
-⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠁⠂⠄⠂⠁⠂⠄
-
-        ≽^•⩊•^≼ ⋆ ｡°✩  have fun!!  ✩°｡ ⋆ ≽^•⩊•^≼
+``` Install
+sudo make install
+```
